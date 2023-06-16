@@ -6,7 +6,7 @@
 #
 layout: page
 header:
-  image_fullwidth: ../about/images/g5883_desat_grad.png
+  image_fullwidth: ../will_raymond_cv/images/g5883_desat_grad.png
 
 #
 # Use the call for action to show a button on the frontpage
@@ -28,7 +28,7 @@ homepage: True
 ---
 
 <div class="row t10">
-  <div class="large-6 columns"> <img src="/about/images/wsr_photo3.png" alt="Photo of William Raymond"> </div>
+  <div class="large-6 columns"> <img src="/will_raymond_cv/images/wsr_photo3.png" alt="Photo of William Raymond"> </div>
   <div class="large-6 columns">
     <h1> About me 
     </h1> 
