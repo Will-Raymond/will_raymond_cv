@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 #gem 'jekyll'
+gem "github-pages", "~> 228", group: :jekyll_plugins
 
 group :jekyll_plugins do
   gem 'jekyll-gist'
@@ -23,3 +24,5 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
+
+gem "webrick", "~> 1.8"
