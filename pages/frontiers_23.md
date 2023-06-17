@@ -22,7 +22,7 @@ header: false
 
 ---
 
-<div class="row"  style="font-size: 25px; padding-bottom: 20px;"> Link to the paper: <a href="https://www.frontiersin.org/articles/10.3389/fcell.2023.1151318/full"> <span class='externalicon' style="display:inline-block;">  </span> </a></div> 
+<div class="row"  style="font-size: 25px; padding-bottom: 20px;"> Link to the paper: <a href="https://www.frontiersin.org/articles/10.3389/fcell.2023.1151318/full"> <span class='internalicon' style="display:inline-block;"> <img src="../images/external-link.svg" width="25" height="25">  </span> </a></div> 
 
 <div class="row" style="background: rgba(87, 255, 230, 0.20); padding-bottom: 35px; padding-left: 15px; padding-right: 15px;outline:.3em solid #57ffe6;"> 
   <h3 style="color: white;">
@@ -53,6 +53,6 @@ mRNA translation is the ubiquitous cellular process of reading messenger-RNA str
 
 <div class="large-8 columns"> </div>
 <div class="large-3 columns"> 
- Back to publications: <span class='internalicon' style="display:inline-block;" onclick="window.location='{{site.url}}{{site.baseurl}}/publications/'">  </span>
+ Back to publications &nbsp; <span class='internalicon' style="display:inline-block;" onclick="window.location='{{site.url}}{{site.baseurl}}/publications/'"> <img src="../images/next-arrow.svg" width="20" height="20"> </span>
  </div>
  </div> 

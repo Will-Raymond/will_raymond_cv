@@ -128,17 +128,26 @@ dd.accordion-navigation.active span:before { content: "\F105" }
 /* Custom Icons */
 
 .internalicon {
-    background: url('internal_link_icon.png');
+    background: url('next-arrow.svg');
     height: 20px;
     width: 20px;
-    display: block;
-  
+    display: inline-block;;
+    filter: invert(93%) sepia(21%) saturate(123%) hue-rotate(153deg) brightness(99%) contrast(93%);
     /* Other styles here */
   }
 
+.filter-font-color{
+  filter: invert(93%) sepia(21%) saturate(123%) hue-rotate(153deg) brightness(99%) contrast(93%);
+}
+
+.filter-font-color-hover{
+  filter: invert(76%) sepia(54%) saturate(397%) hue-rotate(136deg) brightness(90%) contrast(104%);
+}
+
 .internalicon:hover {
-  background: url('internal_link_icon_hover.png');
+
   cursor: pointer;
+  filter: invert(76%) sepia(54%) saturate(397%) hue-rotate(136deg) brightness(90%) contrast(104%);
   }
 
 .externalicon {

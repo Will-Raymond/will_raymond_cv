@@ -25,6 +25,10 @@
   url: "/talks"
   side: left
 
+- title: Hobbies
+  url: "/hobbies"
+  side: left
+
 - title: "Search"
   url: "/search/"
   side: right

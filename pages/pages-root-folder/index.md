@@ -24,11 +24,16 @@ permalink: /index.html
 # this page as active in the topbar navigation
 #
 homepage: True
-title: "<div> <p> <h3> William Scott Raymond </h3> </p> </div>"
-teaser: Computational Biologist  &nbsp;&nbsp; • &nbsp;&nbsp;  mRNA modeler &nbsp;&nbsp; • &nbsp;&nbsp;  Painter &nbsp;&nbsp; • &nbsp;&nbsp;  (he/him) 
+title: ""
+teaser: ""
+
 
 ---
 
+<div class="row t40minus" style="font-size: 35px;"> <h3> William Scott Raymond </h3> </div>
+<div class="row t10" style="font-size: 22px;"> 
+  Computational Biologist  &nbsp;&nbsp; • &nbsp;&nbsp;  mRNA modeler &nbsp;&nbsp; • &nbsp;&nbsp;  Painter &nbsp;&nbsp; • &nbsp;&nbsp;  (he/him)
+</div>
 <div class="row t10" style="font-size: 20px;">
   <div class="large-6 columns"> 
     <div> 
