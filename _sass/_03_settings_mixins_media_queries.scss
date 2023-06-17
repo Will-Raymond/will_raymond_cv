@@ -383,19 +383,23 @@ $cursor-text-value: text !default;
     body::after {
       content: "";
       background: $body-bg;
-      background-image: url("largecellsingle_purple.gif");
+      background-image: url("bc1.gif");
       background-size: cover;
       background-repeat: no-repeat;
       background-attachment: fixed;
-      opacity: 0.25;
+      opacity: 0.35;
       top: 0;
       left: 0;
       bottom: 0;
       right: 0;
       position: absolute;
       z-index: -2;   
+      filter: brightness(120%) hue-rotate(192deg) contrast(1.2);
     }
 
+
+
+  
   a:hover { cursor: $cursor-pointer-value; }
 
     // Grid Defaults to get images and embeds to work properly

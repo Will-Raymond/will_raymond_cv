@@ -22,6 +22,7 @@ header: false
 
 ---
 
+<div class="row" style="font-size: 20px; z-index: -1; background: rgba(0,0,22,.5); padding: 35px;">
 <div class="row"  style="font-size: 25px; padding-bottom: 20px;"> Link to the paper: <a href="https://www.frontiersin.org/articles/10.3389/fcell.2023.1151318/full"> <span class='internalicon' style="display:inline-block;"> <img src="../images/external-link.svg" width="25" height="25">  </span> </a></div> 
 
 <div class="row" style="background: rgba(87, 255, 230, 0.20); padding-bottom: 35px; padding-left: 15px; padding-right: 15px;outline:.3em solid #57ffe6;"> 
@@ -44,6 +45,7 @@ header: false
   <h2 style="padding: 10px">
     Abstract:
   </h2>
+
 mRNA translation is the ubiquitous cellular process of reading messenger-RNA strands into functional proteins. Over the past decade, large strides in microscopy techniques have allowed observation of mRNA translation at a single-molecule resolution for self-consistent time-series measurements in live cells. Dubbed Nascent chain tracking (NCT), these methods have explored many temporal dynamics in mRNA translation uncaptured by other experimental methods such as ribosomal profiling, smFISH, pSILAC, BONCAT, or FUNCAT-PLA. However, NCT is currently restricted to the observation of one or two mRNA species at a time due to limits in the number of resolvable fluorescent tags. In this work, we propose a hybrid computational pipeline, where detailed mechanistic simulations produce realistic NCT videos, and machine learning is used to assess potential experimental designs for their ability to resolve multiple mRNA species using a single fluorescent color for all species. Our simulation results show that with careful application this hybrid design strategy could in principle be used to extend the number of mRNA species that could be watched simultaneously within the same cell. We present a simulated example NCT experiment with seven different mRNA species within the same simulated cell and use our ML labeling to identify these spots with 90% accuracy using only two distinct fluorescent tags. We conclude that the proposed extension to the NCT color palette should allow experimentalists to access a plethora of new experimental design possibilities, especially for cell Signaling applications requiring simultaneous study of multiple mRNAs.
 </div>
 
@@ -56,3 +58,4 @@ mRNA translation is the ubiquitous cellular process of reading messenger-RNA str
  Back to publications &nbsp; <span class='internalicon' style="display:inline-block;" onclick="window.location='{{site.url}}{{site.baseurl}}/publications/'"> <img src="../images/next-arrow.svg" width="20" height="20"> </span>
  </div>
  </div> 
+</div>
