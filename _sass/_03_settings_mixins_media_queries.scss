@@ -377,7 +377,23 @@ $cursor-text-value: text !default;
       line-height: $base-line-height; // Set to $base-line-height to take on browser default of 150%
       position: relative;
       cursor: $cursor-auto-value;
-      background-image: url("nnnoise.svg")
+
+    }
+
+    body::after {
+      content: "";
+      background: $body-bg;
+      background-image: url("cellsingle.gif");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      opacity: 0.5;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      position: absolute;
+      z-index: -2;   
     }
 
   a:hover { cursor: $cursor-pointer-value; }
