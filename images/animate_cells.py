@@ -10,7 +10,7 @@ from matplotlib.animation import FuncAnimation, PillowWriter
 import matplotlib.pyplot as plt
 from skimage.io import imread
 vid = imread('D:/multiplexing_ML/p300_kdm5b_base_pb1.tif')
-vid = np.moveaxis(np.array([vid[:,:,:,0], 2*vid[:,:,:,1], .1*vid[:,:,:,2]]), 0, -1)
+vid = np.moveaxis(np.array([vid[:,:,:,0], vid[:,:,:,0], vid[:,:,:,1]]), 0, -1)
 
 def quantile_norm(movie, q ):  #quantile norm
     norm_movie = np.zeros(movie.shape)
@@ -25,8 +25,8 @@ def quantile_norm(movie, q ):  #quantile norm
     return norm_movie
 
 vid5 = quantile_norm(vid[:40], .99)
-vid5[:,:,:,-1] = 0
-fig,ax = plt.subplots(1,1,dpi=600)
+vid5[:,:,:,0] = 0
+fig,ax = plt.subplots(1,1,dpi=450)
 a = ax.imshow(vid5[0])
 ax.axis('off')
 

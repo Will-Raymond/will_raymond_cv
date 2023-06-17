@@ -353,7 +353,7 @@ $cursor-text-value: text !default;
   @if $include-html-global-classes {
 
     // Must be 100% for off canvas to work
-    html, body { height: 100%; }
+    //html, body { height: 100%; }
 
     // Set box-sizing globally to handle padding and border widths
     *,
@@ -383,11 +383,11 @@ $cursor-text-value: text !default;
     body::after {
       content: "";
       background: $body-bg;
-      background-image: url("cellsingle.gif");
+      background-image: url("largecellsingle_purple.gif");
       background-size: cover;
       background-repeat: no-repeat;
       background-attachment: fixed;
-      opacity: 0.5;
+      opacity: 0.25;
       top: 0;
       left: 0;
       bottom: 0;
