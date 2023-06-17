@@ -1,3 +1,8 @@
+- name: E-mail
+  url: mailto:wsraymon@rams.colostate.edu
+  class: icon-mail
+  title: My E-mail
+
 - name: GitHub
   url: http://github.com/Will-Raymond
   class: icon-github

@@ -24,24 +24,37 @@ permalink: /index.html
 # this page as active in the topbar navigation
 #
 homepage: True
+title: "<div> <p> <h3> William Scott Raymond </h3> </p> </div>"
+teaser: Computational Biologist  &nbsp;&nbsp; • &nbsp;&nbsp;  mRNA modeler &nbsp;&nbsp; • &nbsp;&nbsp;  Painter &nbsp;&nbsp; • &nbsp;&nbsp;  (he/him) 
 
 ---
 
 <div class="row t10">
-  <div class="large-6 columns"> <img src="/will_raymond_cv/images/wsr_photo3.png" alt="Photo of William Raymond"> </div>
+  <div class="large-6 columns"> 
+    <div> 
+      <img src="/will_raymond_cv/images/wsr_photo3.jpg" alt="Photo of William Raymond hiking">
+    </div>
+  </div>
   <div class="large-6 columns">
-    <h1> About me 
-    </h1> 
-    <p> I am a computational biologist with a background in quantitative data analysis, mechanistic model building, and RNA biology.
+    <h2> About me 
+    </h2> 
+    <p> 
+    I am a computational biologist with a background in quantitative data analysis, mechanistic model building, and RNA biology.
     I am currently a 6th year PhD student at Colorado State University in the Munsky lab -- graduating soon in 2023. My focus during my studies here have been on coding TASEP based mRNA models to fit, reproduce, and classify Nascent Chain Tracking (NCT) experiments. 
-    </p> 
+    I have a deep interest in the questions that plague RNA biology. I hope to provide insight to the scientific community about mRNA dynamics such as ribosomal collision dynamics, mRNA codon selection, mRNA decay, and tRNA abundances during my upcoming career.
+    </p>
     <p>
-    I have an interest in the questions that plague RNA biology. I hope to provide insight to the scientific community about mRNA dynamics such as ribosomal collision dynamics, mRNA codon selection, mRNA decay, and tRNA abundances during my upcoming career.
-    </p> 
+        Besides RNA, I am passionate about ethics in machine learning, as well as in scientific research as a whole. I haven't had the chance to do scientific outreach past college level, but I hope to change that in the future!
+    </p>
+    <p>
+    When I am not working, I love to spend afternoons painting, swimming, or hiking with my partner. Feel free to reach out, I will be fastest to respond over email!
+
+    </p>
    </div>
 
 </div>
 
-<div class="row t10">
-More text here
+<div class="row t50">
+  <p style="font-size: 30px;"> Check out my <a href="{{site.baseurl}}/publications/" > publications! </a> </p>
 </div>
+

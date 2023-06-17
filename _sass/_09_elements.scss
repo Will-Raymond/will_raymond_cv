@@ -140,6 +140,45 @@ dd.accordion-navigation.active span:before { content: "\F105" }
   background: url('internal_link_icon_hover.png');
   cursor: pointer;
   }
+
+
+/* grainy noise bgs */
+
+.noise {
+  /* ... */
+  background:
+   radial-gradient(ellipse at 70%, navy, rgba(0, 0, 0, 0)),
+    url('grainy_noise.svg');
+  filter: contrast(170%) brightness(100%);  
+
+    
+}
+
+.overlay {
+  /* ... */
+  background: moccasin;
+  mix-blend-mode: screen;
+}
+
+.isolate {
+  isolation: isolate;
+  /* ... */
+}
+
+.squarebox{
+  background: rgb(0, 0, 0);
+  height: 420px;
+  margin: 20px;
+  width: 260px;
+  -webkit-box-shadow: 0 0 10px 20px #000000;
+  box-shadow: 0 0 10px 20px #000000;
+}
+
+.image_fade{
+  -webkit-mask-image:  squarebox 
+}
+
+
 /* Lazy Load XT
 ------------------------------------------------------------------- */
 
