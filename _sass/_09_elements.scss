@@ -141,6 +141,20 @@ dd.accordion-navigation.active span:before { content: "\F105" }
   cursor: pointer;
   }
 
+.externalicon {
+    background: url('external_link_icon.png');
+    height: 20px;
+    width: 20px;
+    display: block;
+  
+    /* Other styles here */
+  }
+
+.externalicon:hover {
+  background: url('external_link_icon_hover.png');
+  cursor: pointer;
+  }
+
 
 /* grainy noise bgs */
 

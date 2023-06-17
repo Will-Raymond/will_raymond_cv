@@ -29,15 +29,15 @@ teaser: Computational Biologist  &nbsp;&nbsp; • &nbsp;&nbsp;  mRNA modeler &nb
 
 ---
 
-<div class="row t10">
+<div class="row t10" style="font-size: 20px;">
   <div class="large-6 columns"> 
     <div> 
-      <img src="/will_raymond_cv/images/wsr_photo3.jpg" alt="Photo of William Raymond hiking">
+      <img src="/will_raymond_cv/images/wsr_photo.png" alt="Photo of William Raymond hiking">
     </div>
   </div>
   <div class="large-6 columns">
-    <h2> About me 
-    </h2> 
+    <h3> About me 
+    </h3> 
     <p> 
     I am a computational biologist with a background in quantitative data analysis, mechanistic model building, and RNA biology.
     I am currently a 6th year PhD student at Colorado State University in the Munsky lab -- graduating soon in 2023. My focus during my studies here have been on coding TASEP based mRNA models to fit, reproduce, and classify Nascent Chain Tracking (NCT) experiments. 
