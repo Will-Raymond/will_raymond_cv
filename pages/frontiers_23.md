@@ -3,16 +3,7 @@ layout: page-fullwidth
 #
 # Content
 #
-subheadline: ""
-title: '<div class="row">Using mechanistic models and machine learning to design single-color multiplexed nascent chain tracking experiments </div>'
-teaser: '<div class="row">William S. Raymond<sup>1</sup>, Sadaf Ghaffari<sup>2</sup>, Luis U. Aguilera<sup>3</sup>, Eric Ron<sup>1</sup>, Tatsuya Morisaki<sup>4</sup>, Zachary R. Fox<sup>1,5</sup>, Michael P. May<sup>1</sup>, Timothy J. Stasevich<sup>4,6</sup>* and Brian Munsky<sup>1,3</sup>* <div style="font-size: 12px;"> [1] School of Biomedical Engineering, Colorado State University, Fort Collins, CO, United States
-<br>[2] Department of Computer Science, Colorado State University, Fort Collins, CO, United States 
-<br>[3] Department of Chemical and Biological Engineering, Colorado State University, Fort Collins, CO, United States 
-<br>[4] Department of Biochemistry and Molecular Biology, Colorado State University, Fort Collins, CO, United States 
-<br>[5] Computational Sciences and Engineering Division, Oak Ridge National Laboratory, Oak Ridge, TN, United States
-<br>[6] World Research Hub Initiative and Cell Biology Unit, Institute of Innovative Research, Tokyo Institute of Technology, Yokohama, Japan
-</div>
-</div>'
+
 categories:
   - publication
 tags:
@@ -22,7 +13,20 @@ header: false
 
 ---
 
-<div class="row" style="font-size: 20px; z-index: -1; background: rgba(0,0,22,.5); padding: 35px;">
+<div class="row" style="font-size: 20px; z-index: -1; background: rgba(0,0,22,.5); padding-left: 35px; padding-top: 35px; padding-right: 35px;
+box-shadow: 0 0 4px 4px rgba(0,0,22,.5);"> <div class="row" style="font-size: 35px;">Using mechanistic models and machine learning to design single-color multiplexed nascent chain tracking experiments </div> 
+
+<div class="row" style="font-size: 15px;"><span style="color: #57ffe6;">William S. Raymond<sup>1</sup></span>, Sadaf Ghaffari<sup>2</sup>, Luis U. Aguilera<sup>3</sup>, Eric Ron<sup>1</sup>, Tatsuya Morisaki<sup>4</sup>, Zachary R. Fox<sup>1,5</sup>, Michael P. May<sup>1</sup>, Timothy J. Stasevich<sup>4,6</sup>* and Brian Munsky<sup>1,3</sup>* <div style="font-size: 12px;"> [1] School of Biomedical Engineering, Colorado State University, Fort Collins, CO, United States
+<br>[2] Department of Computer Science, Colorado State University, Fort Collins, CO, United States 
+<br>[3] Department of Chemical and Biological Engineering, Colorado State University, Fort Collins, CO, United States 
+<br>[4] Department of Biochemistry and Molecular Biology, Colorado State University, Fort Collins, CO, United States 
+<br>[5] Computational Sciences and Engineering Division, Oak Ridge National Laboratory, Oak Ridge, TN, United States
+<br>[6] World Research Hub Initiative and Cell Biology Unit, Institute of Innovative Research, Tokyo Institute of Technology, Yokohama, Japan
+</div>
+</div>
+
+
+
 <div class="row"  style="font-size: 25px; padding-bottom: 20px;"> Link to the paper: <a href="https://www.frontiersin.org/articles/10.3389/fcell.2023.1151318/full"> <span class='internalicon' style="display:inline-block;"> <img src="../images/external-link.svg" width="25" height="25">  </span> </a></div> 
 
 <div class="row" style="background: rgba(87, 255, 230, 0.20); padding-bottom: 35px; padding-left: 15px; padding-right: 15px;outline:.3em solid #57ffe6;"> 

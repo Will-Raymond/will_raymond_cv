@@ -11,7 +11,7 @@ permalink           : "/publications/"
 noindex: true
 ---
 
-<div class="row" style="font-size: 20px; z-index: -1; background: rgba(0,0,22,.5); padding: 15px;">
+<div class="row" style="font-size: 20px; z-index: -1; background: rgba(0,0,22,.5); padding: 15px; box-shadow: 0 0 4px 4px rgba(0,0,22,.5);">
 <div class="row">
   <div class="large-5 columns"> <h4> Title  </h4> </div>
   <div class="large-2 columns">  <h4> Journal  </h4> </div>
@@ -36,7 +36,7 @@ noindex: true
   <div class="large-5 columns">Visualization, Quantification, and Modeling of Endogenous RNA PolymeraseII Phosphorylation at a Single-copy Gene in Living Cells § </div>
   <div class="large-2 columns"> Bio-protocol </div>
   <div class="large-1 columns">August 2022 </div>
-  <div class="large-1 columns"> <span class='internalicon' onclick="window.location='{{site.url}}{{site.baseurl}}/publications/bio_protocol_2022'"> <img src="../images/next-arrow.svg" width="20" height="20"></span></div>
+  <div class="large-1 columns"> <a href="https://bio-protocol.org/pdf/Bio-protocol4482.pdf"> <span class='internalicon'> <img src="../images/next-arrow.svg" width="20" height="20"></span></a></div>
 
 </div>
 

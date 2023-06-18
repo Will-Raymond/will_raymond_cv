@@ -34,11 +34,13 @@ teaser: ""
 <source src="../will_raymond_cv/images/bc4.mp4" type="video/mp4">
 </video> -->
 
-<div class="row t40minus" style="font-size: 35px;"> <h3> William Scott Raymond </h3> </div>
-<div class="row t10" style="font-size: 22px;"> 
+<div class="row t10" style="font-size: 20px; z-index: -1; background: rgba(10,40,60,.5); padding: 15px; box-shadow: 0 0 4px 4px rgba(10,40,60,.5);">
+<div class="row t40minus" style="font-size: 35px; padding: 7px;"> <h3> William Scott Raymond </h3> </div>
+<div class="row t10" style="font-size: 22px;  padding: 7px;"> 
   Computational Biologist  &nbsp;&nbsp; • &nbsp;&nbsp;  mRNA modeler &nbsp;&nbsp; • &nbsp;&nbsp;  Painter &nbsp;&nbsp; • &nbsp;&nbsp;  (he/him)
-</div>
-<div class="row t10" style="font-size: 20px; z-index: -1; background: rgba(0,0,22,.3); padding: 15px;">
+</div></div>
+
+<div class="row t10" style="font-size: 20px; z-index: -1; background: rgba(0,0,22,.5); padding: 15px; box-shadow: 0 0 4px 4px rgba(0,0,22,.5);">
   <div class="row t10" style="font-size: 20px; opacity: 1;">
     <div class="large-6 columns"> 
       <div> 
