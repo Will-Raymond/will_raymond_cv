@@ -44,7 +44,7 @@ teaser: ""
   <div class="row t10" style="font-size: 20px; opacity: 1;">
     <div class="large-6 columns"> 
       <div> 
-        <img src="/will_raymond_cv/images/wsr_photo.png" alt="Photo of William Raymond hiking">
+        <img src="/will_raymond_cv/images/wsr_photo_small.png" alt="Photo of William Raymond hiking">
       </div>
     </div>
     <div class="large-6 columns">
