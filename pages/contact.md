@@ -1,10 +1,17 @@
 ---
-layout              : page
-title               : "Contact"
-meta_title          : "Contact and use our contact form"
-subheadline         : "Contact Form"
-teaser              : "Get in touch with me? Use the contact form."
+layout              : page-fullwidth
+title               : 
+meta_title          : 
+subheadline         : 
+teaser              : 
 permalink           : "contact/"
+header              :
+    image_fullwidth: "header_drop.jpg"
 ---
 
-Contacts:
+<div class="row" style="font-size: 20px; z-index: -1; background: rgba(0,0,22,.5); padding-left: 35px; padding-top: 35px; padding-right: 35px; padding-bottom: 35px; box-shadow: 0 0 4px 4px rgba(0,0,22,.5);">    
+
+<h1>
+Contact Info
+</h1>
+</div>
