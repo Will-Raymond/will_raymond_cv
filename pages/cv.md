@@ -20,7 +20,7 @@ permalink           : "/cv/"
    </div>
 </div>
 
-<div class="row" style="font-size: 20px; z-index: -1; background: rgba(0,0,22,.5); padding-left: 10px; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; box-shadow: 0 0 4px 4px rgba(0,0,22,.5); margin: 0px;">    
+<div class="row" style="font-size: 20px; z-index: -1; background: rgba(0,0,22,.5); padding-left: 10px; padding-top: 5px; padding-right: 0px; padding-bottom: 5px; box-shadow: 0 0 4px 4px rgba(0,0,22,.5); margin: 0px;">    
 
 <div class="large-3 columns">
    <img src="../images/wsr_photo4.png" width="100%" height="100%">
@@ -41,7 +41,7 @@ permalink           : "/cv/"
    <div class="large-1 columns">
    GPA 3.35  
    </div>
-   <div class="large-3 columns"> 
+   <div class="large-3 columns" style="text-align: right"> 
       Fall 2012 - Spr 2017
    </div>
 
@@ -53,7 +53,7 @@ permalink           : "/cv/"
       Doctorate of Philosophy - Bioengineering
    </div>
 
-   <div class="large-3 columns"> 
+   <div class="large-3 columns" style="text-align: right"> 
       Fall 2018 - Fall 2023
    </div>
 </div>
@@ -63,6 +63,8 @@ permalink           : "/cv/"
 <h4>
 Work Experience
 </h4>
+
+
    <hr>
    <div class="large-9 columns"> 
    
@@ -73,16 +75,114 @@ Work Experience
          
    </div>
 
-   <div class="large-3 columns"> 
-       &nbsp;&nbsp;&nbsp;&nbsp; Sept 2017 - Aug 2018
+   <div class="large-3 columns" style="text-align: right"> 
+       Sept 2017 - Aug 2018
    </div>
+
+
+   <hr>
+   <div class="large-9 columns"> 
+   
+      Undergraduate Research Assistant - Colorado State University 
+   <ul>
+      <li>Completed an honors thesis focusing on a Python GUI for solving bursting gene models</li>
+   </ul>
+         
+   </div>
+
+   <div class="large-3 columns" style="text-align: right"> 
+       Summer 2017 
+   </div>
+
 
 </div>
 
 <div class="row" style="font-size: 20px; z-index: -1; background: rgba(0,0,22,.5); padding-left: 10px; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; box-shadow: 0 0 4px 4px rgba(0,0,22,.5); margin: 0px;">  
 <h4>
-Publications
+ Publications 
 </h4>
+
+   <hr>
+   <div class="large-6 columns"> 
+   
+      <a href="../publications/frontiers_23"> "Using mechanistic models and machine learning to design single-color multiplexed nascent chain tracking experiments" </a>
+      <br>
+      1<sup>st</sup> Author
+         
+   </div>
+   <div class="large-4 columns" style="text-align: right"> 
+       Frontiers in Cell and Developmental Biology
+   </div>
+   <div class="large-2 columns" style="text-align: right"> 
+       May 2023
+   </div>
+
+
+   <hr>
+   <div class="large-6 columns"> 
+   
+      <a href="https://bio-protocol.org/pdf/Bio-protocol4482.pdf"> "Visualization, Quantification, and Modeling of Endogenous RNA PolymeraseII Phosphorylation at a Single-copy Gene in Living Cells " </a>
+      <br>
+      2<sup>nd</sup> Author
+         
+   </div>
+   <div class="large-4 columns" style="text-align: right"> 
+       Bio-protocol
+   </div>
+   <div class="large-2 columns" style="text-align: right"> 
+       August 2022
+   </div>
+
+
+
+
+   <hr>
+   <div class="large-6 columns"> 
+   
+      <a href="../publications/nature_comm_2021"> "Live-cell imaging reveals the spatiotemporal organization of endogenous RNA polymerase II phosphorylation at a single gene" </a>
+      <br>
+      2<sup>nd</sup> Author
+         
+   </div>
+   <div class="large-4 columns" style="text-align: right"> 
+       Nature Communications
+   </div>
+   <div class="large-2 columns" style="text-align: right"> 
+       May 2021
+   </div>
+
+ <hr>
+   <div class="large-6 columns"> 
+   
+      <a href="../publications/plos_computational_2019"> "Computational design and interpretation of single-RNA translation experiments" </a>
+      <br>
+      2<sup>nd</sup> Author
+         
+   </div>
+   <div class="large-4 columns" style="text-align: right"> 
+       PLOS Computational Biology
+   </div>
+   <div class="large-2 columns" style="text-align: right"> 
+       October 2019
+   </div>
+
+
+   <hr>
+   <div class="large-6 columns"> 
+   
+      <a href="../publications/physical_biology_2018"> "Identification of gene regulation models from single-cell data" </a>
+      <br>
+      2<sup>nd</sup> Author
+         
+   </div>
+   <div class="large-4 columns" style="text-align: right"> 
+       Physical Biology
+   </div>
+   <div class="large-2 columns" style="text-align: right"> 
+       May 2018
+   </div>
+
+
 </div>
 
 <div class="row" style="font-size: 20px; z-index: -1; padding-left: 10px; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; margin: 0px;">  
@@ -93,23 +193,24 @@ Teaching experience
    <hr>
    <div class="large-9 columns"> 
    
-      Graduate Teaching Assistant - Colorado State University 
+      Course Instructor - Colorado State University 
       <br>
       BIOM 421 - Transport phenomena
    <ul>
       <li>
-         Assited in grading and running office hours.
+         Taught senior undergraduate engineering students principles in transport phenomena including topics such as pharmacokinetics, fluid dynamics, mass transport, and FEM / FVM analyses.
       </li>
       <li>
-         Directly supported students' learning by helping with question and answer sessions.
+         Created an engaging and vibrant learning environment by providing real world examples of where taught principles are applied.
       </li>
    </ul>
          
    </div>
 
-   <div class="large-3 columns"> 
-       &nbsp;&nbsp;&nbsp;&nbsp; Fall 2020, Fall 2021
+   <div class="large-3 columns" style="text-align: right"> 
+       Jan 2023 - May 2023
    </div>
+
 
    <hr>
    <div class="large-9 columns"> 
@@ -129,31 +230,32 @@ Teaching experience
          
    </div>
 
-   <div class="large-3 columns"> 
-       &nbsp;&nbsp;&nbsp;&nbsp; Summer 2021, 2022, & 2023
+   <div class="large-3 columns" style="text-align: right"> 
+      Summer 2021, 2022, & 2023
    </div>
 
 
-   <hr>
+  <hr>
    <div class="large-9 columns"> 
    
-      Course Instructor - Colorado State University 
+      Graduate Teaching Assistant - Colorado State University 
       <br>
       BIOM 421 - Transport phenomena
    <ul>
       <li>
-         Taught senior undergraduate engineering students principles in transport phenomena including topics such as pharmacokinetics, fluid dynamics, mass transport, and FEM / FVM analyses.
+         Assited in grading and running office hours.
       </li>
       <li>
-         Created an engaging and vibrant learning environment by providing real world examples of where taught principles are applied.
+         Directly supported students' learning by helping with question and answer sessions.
       </li>
    </ul>
          
    </div>
 
-   <div class="large-3 columns"> 
-       &nbsp;&nbsp;&nbsp;&nbsp; Jan 2023 - May 2023
+   <div class="large-3 columns" style="text-align: right"> 
+      Fall 2020, Fall 2021
    </div>
+
 
 </div>
 
@@ -163,20 +265,6 @@ Teaching experience
 Accepted Talks
 </h4>
 
-   <hr>
-   <div class="large-9 columns"> 
-   
-      APS March Meeting - Las Vegas, Nevada
-      <br>
-      <ul>
-      <li> Talk title: "Combining mechanistic and statistical models to enable Nascent Chain Tracking for multiple mRNAs using a single color"  </li>
-      </ul>
-   </div>
-   <div class="large-3 columns"> 
-       &nbsp;&nbsp;&nbsp;&nbsp; March 2023
-   </div>
-
-   
    <hr>
    <div class="large-9 columns"> 
    
@@ -192,9 +280,38 @@ Accepted Talks
    </ul>
          
    </div>
-   <div class="large-3 columns"> 
-       &nbsp;&nbsp;&nbsp;&nbsp; June 2023
+   <div class="large-3 columns" style="text-align: right"> 
+       June 2023
    </div>
+
+
+   <hr>
+   <div class="large-9 columns"> 
+   
+      APS March Meeting - Las Vegas, Nevada
+      <br>
+      <ul>
+      <li> Talk title: "Combining mechanistic and statistical models to enable Nascent Chain Tracking for multiple mRNAs using a single color"  </li>
+      </ul>
+   </div>
+   <div class="large-3 columns" style="text-align: right"> 
+       March 2023
+   </div>
+
+   
+   <hr>
+   <div class="large-9 columns"> 
+   
+      Q-bio Conference - Rutgers University
+      <br>
+      <ul>
+      <li> Talk title: "Stochastic Simulation Identification Toolkit"  </li>
+      </ul>
+   </div>
+   <div class="large-3 columns" style="text-align: right"> 
+       Summer 2017
+   </div>
+
 
 </div>
 
@@ -221,8 +338,8 @@ Conference Attendences
    </ul>
          
    </div>
-   <div class="large-3 columns"> 
-       &nbsp;&nbsp;&nbsp;&nbsp; June 2023
+   <div class="large-3 columns" style="text-align: right"> 
+       June 2023
    </div>
 
 </div>
@@ -233,6 +350,27 @@ Conference Attendences
 Outreach
 </h4>
 </div>
+
+   <hr>
+   <div class="large-9 columns"> 
+   
+      Engineering Mentor - Colorado State University
+   <ul>
+      <li>
+         Helped incoming freshmen engineers adjust to their new college environment and classes.
+      </li>
+      <li>
+         Mentored freshmen with their courswork and provided office hours.
+      </li>
+      <li>
+         Volunteered for Engineering E-days and assisted prospective freshmen interested in engineering
+      </li>
+   </ul>
+         
+   </div>
+   <div class="large-3 columns" style="text-align: right"> 
+       Fall & Spring 2014
+   </div>
 
 
 
