@@ -5,7 +5,7 @@ title               :
 subheadline         : 
 teaser              : 
 header:
-   image_fullwidth  : "g5883_lime_grad.png"
+   image_fullwidth  : "celllong_yellow3.gif"
 permalink           : "/cv/"
 ---
 

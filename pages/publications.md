@@ -5,7 +5,7 @@ title               : "Publications"
 subheadline         : ""
 teaser              : "A list of my academic publications"
 header:
-    image_fullwidth: "g5883_purple_grad.png"
+    image_fullwidth: "celllong_blue3.gif"
 permalink           : "/publications/"
 
 noindex: true

@@ -6,7 +6,7 @@
 #
 layout: page
 header:
-  image_fullwidth: ../will_raymond_cv/images/g5883_teal_grad.png
+  image_fullwidth: ../will_raymond_cv/images/celllong_lightpurple4.gif
 
 #
 # Use the call for action to show a button on the frontpage

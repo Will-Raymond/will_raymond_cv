@@ -5,7 +5,7 @@ title               : "projects"
 subheadline         : "headline"
 teaser              : "teaser"
 header:
-   image_fullwidth  : "g5883_desat_grad.png"
+   image_fullwidth  : "celllong_blue2.gif"
 permalink           : "projects/"
 ---
 
