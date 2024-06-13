@@ -54,7 +54,7 @@ permalink           : "/cv/"
    </div>
 
    <div class="large-3 columns" style="text-align: right"> 
-      Fall 2018 - Fall 2023
+      Fall 2018 - Spr 2024
    </div>
 </div>
 </div>
@@ -101,6 +101,21 @@ Work Experience
 <h4>
  Publications 
 </h4>
+
+   <hr>
+   <div class="large-6 columns"> 
+   
+      <a href="../publications/riboswitch_23"> "Identification of Potential Riboswitch Elements in Homo Sapiens 5'UTR Sequences using Positive-Unlabeled Machine Learning" </a>
+      <br>
+      1<sup>st</sup> Author
+         
+   </div>
+   <div class="large-4 columns" style="text-align: right"> 
+       PREPRINT
+   </div>
+   <div class="large-2 columns" style="text-align: right"> 
+       November 2023
+   </div>
 
    <hr>
    <div class="large-6 columns"> 
@@ -195,7 +210,7 @@ Teaching experience
    
       Course Instructor - Colorado State University 
       <br>
-      BIOM 421 - Transport phenomena
+      BIOM 421 - Transport Phenomena
    <ul>
       <li>
          Taught senior undergraduate engineering students principles in transport phenomena including topics such as pharmacokinetics, fluid dynamics, mass transport, and FEM / FVM analyses.
@@ -231,7 +246,7 @@ Teaching experience
    </div>
 
    <div class="large-3 columns" style="text-align: right"> 
-      Summer 2021, 2022, & 2023
+      Summer 2021, 2022, 2023, & 2024
    </div>
 
 
@@ -264,6 +279,26 @@ Teaching experience
 <h4>
 Accepted Talks
 </h4>
+
+   <hr>
+   <div class="large-9 columns"> 
+   
+      UQ-Bio 2023 Guest Lecturer - Fort Collins, Colorado
+      
+   <ul>
+      <li>
+         Gave a 15 minute talk on my dissertation project combining mechanistic mRNA models to extend the color pallette of NCT experiments.
+      </li>
+      <li>
+         Presented a poster on my publication "Using mechanistic models and machine learning to design single-color multiplexed nascent chain tracking experiments"
+      </li>
+   </ul>
+         
+   </div>
+   <div class="large-3 columns" style="text-align: right"> 
+       June 2023
+   </div>
+
 
    <hr>
    <div class="large-9 columns"> 
@@ -321,6 +356,42 @@ Accepted Talks
 <h4>
 Conference Attendences
 </h4>
+
+
+   <hr>
+   <div class="large-9 columns"> 
+   
+      qCMB Symposium - Fort Collins, Colorado
+      <br>
+      Attendee and poster presenter
+   <ul>
+      <li>
+         Presented a poster on my publication "Identification of Potential Riboswitch Elements in Homo Sapiens 5'UTR Sequences using Positive-Unlabeled Machine Learning."
+      </li>
+   </ul>
+         
+   </div>
+   <div class="large-3 columns" style="text-align: right"> 
+       June 2024
+   </div>
+
+
+   <hr>
+   <div class="large-9 columns"> 
+   
+      Rocky Mountain RNA Symposium - Aurora, Colorado
+      <br>
+      Attendee and poster presenter
+   <ul>
+      <li>
+         Presented a poster on my preprint "Identification of Potential Riboswitch Elements in Homo Sapiens 5'UTR Sequences using Positive-Unlabeled Machine Learning."
+      </li>
+   </ul>
+         
+   </div>
+   <div class="large-3 columns" style="text-align: right"> 
+       April 2024
+   </div>
 
    <hr>
    <div class="large-9 columns"> 

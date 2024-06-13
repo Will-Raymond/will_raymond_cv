@@ -52,14 +52,13 @@ teaser: ""
       </h4> 
       <div>
       I am a computational biologist with a background in quantitative data analysis, mechanistic model building, and RNA biology.
-      I am currently a 6th year PhD student at Colorado State University in the Munsky lab -- graduating soon in 2023. My focus during my studies here have been on coding TASEP based mRNA models to fit, reproduce, and classify Nascent Chain Tracking (NCT) experiments. 
-      I have a deep interest in the questions that plague RNA biology. I hope to provide insight to the scientific community about mRNA dynamics such as ribosomal collision dynamics, mRNA codon selection, mRNA decay, and tRNA abundances during my upcoming career.
+      I recently graduated from Colorado State University with my PhD in Bioengineering. While there I had the pleasure to work with Dr. Brian Munsky as my PI. My focus during my studies there focused on coding TASEP based mRNA models to fit, reproduce, and classify Nascent Chain Tracking (NCT) experiments. While at CSU, I developed a deep interest in the questions that exist on the frontiers of understanding in RNA biology. I hope to use my career to provide insight to the scientific community about mRNA translation dynamics such as ribosomal collision dynamics, mRNA codon selection, mRNA decay, and tRNA abundance effects. Besides mRNA,I would love to research the diverse set of unscharacterized ncRNA's within eukayrotic cells.
       </div>
     </div>
   </div>
   <div class="row t10" style="font-size: 20px; padding: 15px;">
       <div>
-          Besides RNA, I am passionate about ethics in machine learning, as well as in scientific research as a whole. I haven't had the chance to do scientific outreach past college level, but I hope to change that in the future!
+          I am passionate about ethics in machine learning, as well ethics in scientific research as a whole. I haven't had the chance to do scientific outreach past college level, but I hope to change that in the future!
       </div>
   </div>
   <div class="row t10" style="font-size: 20px; padding: 15px;">
