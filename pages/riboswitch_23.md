@@ -39,7 +39,6 @@ header: False
 
 <div class="row" style="padding: 10px"> 
 
-I provided a simple tkinter GUI for the models described in this paper.
 
   <h3 style="padding-bottom: 10px; padding-top: 10px; margin 5px;">
     Key Figure:
