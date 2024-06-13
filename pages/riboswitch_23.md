@@ -17,11 +17,12 @@ header: False
   <div class="row" style="font-size: 35px;">
     Identification of Potential Riboswitch Elements in Homo Sapiens mRNA 5'UTR Sequences Using Positive-Unlabeled Machine Learning
   </div> 
-
-
-
+  
   <div class="row" style="font-size: 15px;"> 
-    <span style="color: #57ffe6;"> William Raymond</span>, Jacob DeRoo, Dr Brian Munsky
+    <span style="color: #57ffe6;"> William Raymond<sup>1</sup></span>, Jacob DeRoo<sup>1</sup>, Dr Brian Munsky<sup>2</sup>
+<br>[1] School of Biomedical Engineering, Colorado State University, Fort Collins, CO, United States
+<br>[2] Department of Chemical and Biological Engineering, Colorado State University, Fort Collins, CO, United States 
+
   </div>
 
 
