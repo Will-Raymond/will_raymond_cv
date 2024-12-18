@@ -6,7 +6,7 @@
 #
 layout: page
 header:
-  image_fullwidth: ../will_raymond_cv/images/celllong_lightpurple4.gif
+  image_fullwidth: ../will_raymond_cv/images/celllong_lightpurple5.gif
 
 #
 # Use the call for action to show a button on the frontpage
@@ -52,8 +52,8 @@ teaser: ""
       </h4> 
       <div>
       I am a computational biologist with a background in quantitative data analysis, mechanistic model building, and RNA biology.
-      I am currently a 6th year PhD student at Colorado State University in the Munsky lab -- graduating soon in 2023. My focus during my studies here have been on coding TASEP based mRNA models to fit, reproduce, and classify Nascent Chain Tracking (NCT) experiments. 
-      I have a deep interest in the questions that plague RNA biology. I hope to provide insight to the scientific community about mRNA dynamics such as ribosomal collision dynamics, mRNA codon selection, mRNA decay, and tRNA abundances during my upcoming career.
+      I graduated with a PhD in Bioengineering at Colorado State University in spring 2024. My focus during my studies at the Munsky Lab were on coding TASEP based mRNA models to fit, reproduce, and classify Nascent Chain Tracking (NCT) experiments. 
+      I have a deep interest in the questions that plague the feild of RNA biology. I hope to provide insight to the scientific community about mRNA dynamics such as ribosomal collision dynamics, mRNA codon selection, mRNA decay, and tRNA abundances during my upcoming career.
       </div>
     </div>
   </div>

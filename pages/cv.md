@@ -11,16 +11,16 @@ permalink           : "/cv/"
 
 <div class="row" style="font-size: 20px; z-index: -1; background: rgba(0,0,22,.5); padding-left: 0px; padding-top: 10px; padding-right: 0x; padding-bottom: 10px; box-shadow: 0 0 4px 4px rgba(0,0,22,.5);">    
 
-<div class="row" style="font-size: 20px; z-index: -1;  padding-left: 10px; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; margin: 0px;">  
+<div class="row" style="font-size: 20px; z-index: -1;  padding-left: 10px; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; margin: 0px; text-align: center;">  
    <h1>
-      Curriculum vitae
-   </h1>
-   <div style='font-size: 28px; font-family: "Volkhov",Georgia,Times,serif;'>
       William Scott Raymond
+   </h1>
+   <div style='font-size: 16px; font-family: "Volkhov",Georgia,Times,serif; text-align: center;'>
+      williamscottraymond@gmail.com • 
    </div>
 </div>
 
-<div class="row" style="font-size: 20px; z-index: -1; background: rgba(0,0,22,.5); padding-left: 10px; padding-top: 5px; padding-right: 0px; padding-bottom: 5px; box-shadow: 0 0 4px 4px rgba(0,0,22,.5); margin: 0px;">    
+<div class="row" style="font-size: 20px; z-index: -1; background: rgba(0,0,22,.5); padding-left: 10px; padding-top: 10px; padding-right: 0px; padding-bottom: 5px; box-shadow: 0 0 4px 4px rgba(0,0,22,.5); margin: 0px;">    
 
 <div class="large-3 columns">
    <img src="../images/wsr_photo4.png" width="100%" height="100%">
@@ -54,7 +54,7 @@ permalink           : "/cv/"
    </div>
 
    <div class="large-3 columns" style="text-align: right"> 
-      Fall 2018 - Fall 2023
+      Fall 2018 - Spr 2024
    </div>
 </div>
 </div>
@@ -102,6 +102,22 @@ Work Experience
  Publications 
 </h4>
 
+
+   <hr>
+   <div class="large-6 columns"> 
+   
+      <a href="https://www.biorxiv.org/content/10.1101/2023.11.23.568398v2"> "Identification of potential riboswitch elements in Homo Sapiens mRNA 5’UTR sequences using Positive-Unlabeled machine learning" </a>
+      <br>
+      1<sup>st</sup> Author
+         
+   </div>
+   <div class="large-4 columns" style="text-align: right"> 
+       OUT FOR PUBLICATION
+   </div>
+   <div class="large-2 columns" style="text-align: right"> 
+       2025
+   </div>
+
    <hr>
    <div class="large-6 columns"> 
    
@@ -116,6 +132,7 @@ Work Experience
    <div class="large-2 columns" style="text-align: right"> 
        May 2023
    </div>
+
 
 
    <hr>
@@ -354,6 +371,16 @@ Outreach
    <hr>
    <div class="large-9 columns"> 
    
+      Guest Judge CSU Gradshow - Colorado State University
+
+   </div>
+   <div class="large-3 columns" style="text-align: right"> 
+       Fall 2024
+   </div>
+
+   <hr>
+   <div class="large-9 columns"> 
+   
       Engineering Mentor - Colorado State University
    <ul>
       <li>
@@ -371,7 +398,6 @@ Outreach
    <div class="large-3 columns" style="text-align: right"> 
        Fall & Spring 2014
    </div>
-
 
 
 </div>
