@@ -52,14 +52,14 @@ teaser: ""
       </h4> 
       <div>
       I am a computational biologist with a background in quantitative data analysis, mechanistic model building, and RNA biology.
-      I graduated with a PhD in Bioengineering at Colorado State University in spring 2024. My focus during my studies at the Munsky Lab were on coding TASEP based mRNA models to fit, reproduce, and classify Nascent Chain Tracking (NCT) experiments. 
+      I graduated with a PhD in Bioengineering at Colorado State University in spring 2024. While there I had the pleasure to work with Dr. Brian Munsky as my PI. My focus during my studies at the Munsky Lab were on coding TASEP based mRNA models to fit, reproduce, and classify Nascent Chain Tracking (NCT) experiments. 
       I have a deep interest in the questions that plague the feild of RNA biology. I hope to provide insight to the scientific community about mRNA dynamics such as ribosomal collision dynamics, mRNA codon selection, mRNA decay, and tRNA abundances during my upcoming career.
       </div>
     </div>
   </div>
   <div class="row t10" style="font-size: 20px; padding: 15px;">
       <div>
-          Besides RNA, I am passionate about ethics in machine learning, as well as in scientific research as a whole. I haven't had the chance to do scientific outreach past college level, but I hope to change that in the future!
+          I am passionate about ethics in machine learning, as well ethics in scientific research as a whole. I haven't had the chance to do scientific outreach past college level, but I hope to change that in the future!
       </div>
   </div>
   <div class="row t10" style="font-size: 20px; padding: 15px;">
