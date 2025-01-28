@@ -5,7 +5,7 @@ title               :
 subheadline         : 
 teaser              : 
 header:
-   image_fullwidth  : "celllong_yellow3.gif"
+   image_fullwidth  : "celllong_lightpink5.gif"
 permalink           : "/cv/"
 ---
 
@@ -16,7 +16,7 @@ permalink           : "/cv/"
       William Scott Raymond
    </h1>
    <div style='font-size: 16px; font-family: "Volkhov",Georgia,Times,serif; text-align: center;'>
-      williamscottraymond@gmail.com • 
+      williamscottraymond@gmail.com  
    </div>
 </div>
 
@@ -51,6 +51,9 @@ permalink           : "/cv/"
       Colorado State University 
       <br>
       Doctorate of Philosophy - Bioengineering
+      <br>
+      <small> Dissertation: Stochastic modeling to explore the Central Dogma of molecular biology and
+to design more informative single-molecule live-cell fluorescence microscopy experiments.</small>
    </div>
 
    <div class="large-3 columns" style="text-align: right"> 
@@ -106,16 +109,16 @@ Work Experience
    <hr>
    <div class="large-6 columns"> 
    
-      <a href="https://www.biorxiv.org/content/10.1101/2023.11.23.568398v2"> "Identification of potential riboswitch elements in Homo Sapiens mRNA 5’UTR sequences using Positive-Unlabeled machine learning" </a>
+      <a href="https://www.biorxiv.org/content/10.1101/2023.11.23.568398v2"> "Methods in Quantitative Biology – from Analysis of Single-Cell Microscopy Images to Inference of Predictive Models for Stochastic Gene Expression" </a>
       <br>
-      1<sup>st</sup> Author
+      Contributing Author 
          
    </div>
    <div class="large-4 columns" style="text-align: right"> 
-       OUT FOR PUBLICATION
+       UNDER REVIEW
    </div>
    <div class="large-2 columns" style="text-align: right"> 
-       2025
+       January 2025
    </div>
 
    <hr>
@@ -127,10 +130,10 @@ Work Experience
          
    </div>
    <div class="large-4 columns" style="text-align: right"> 
-       PREPRINT
+       UNDER REVIEW
    </div>
    <div class="large-2 columns" style="text-align: right"> 
-       November 2023
+      January 2025
    </div>
 
    <hr>

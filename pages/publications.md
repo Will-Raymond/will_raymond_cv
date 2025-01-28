@@ -5,7 +5,7 @@ title               : "Publications"
 subheadline         : ""
 teaser              : "A list of my academic publications"
 header:
-    image_fullwidth: "celllong_blue3.gif"
+    image_fullwidth: "celllong_lightblue5.gif"
 permalink           : "/publications/"
 
 noindex: true
@@ -22,12 +22,22 @@ noindex: true
 
 
 <!--outline:0.01em solid #e1f0f5; -->
+
+<div class="row" style=" margin-top: 12px; padding-top: 5px; padding-bottom: 5px;  background: rgba(174, 114, 237, 0.10); ">
+
+  <div class="large-5 columns">Methods in Quantitative Biology – from Analysis of Single-Cell Microscopy Images to Inference of Predictive Models for Stochastic Gene Expression º </div>
+  <div class="large-2 columns"> UNDER REVIEW </div>
+  <div class="large-1 columns"> January 2025 </div>
+  <div class="large-1 columns">  </div>
+
+</div>
+
 <div class="row" style=" margin-top: 12px; padding-top: 5px; padding-bottom: 5px; ">
 
   <div class="large-5 columns">Identification of potential riboswitch elements in Homo Sapiens mRNA 5'UTR sequences using positive-unlabeled machine learning § </div>
-  <div class="large-2 columns"> PREPRINT </div>
-  <div class="large-1 columns"> November 2023 </div>
-  <div class="large-1 columns"> <a href="https://www.biorxiv.org/content/10.1101/2023.11.23.568398v1.full.pdf"> <span class='internalicon'> <img src="../images/next-arrow.svg" width="20" height="20"></span></a></div>
+  <div class="large-2 columns"> UNDER REVIEW </div>
+  <div class="large-1 columns"> December 2024 </div>
+  <div class="large-1 columns"> <a href="https://www.biorxiv.org/content/10.1101/2023.11.23.568398v2.full.pdf"> <span class='internalicon'> <img src="../images/next-arrow.svg" width="20" height="20"></span></a></div>
 
 </div>
 

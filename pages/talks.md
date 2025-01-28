@@ -5,7 +5,7 @@ title               : "Assorted Random Talks"
 subheadline         : ""
 teaser              : "Some talks that have been recorded over the years"
 header:
-   image_fullwidth  : "celllong_red2.gif"
+   image_fullwidth  : "celllong_lightgrey5.gif"
 permalink           : "talks/"
 ---
 

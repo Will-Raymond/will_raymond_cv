@@ -9,17 +9,7 @@
 - title: CV
   url: "/cv"
   side: left
-
-- title: Projects
-  url: "/projects"
-  side: left
-  dropdown:
-  - title: "rSNAPsim"
-    url: "/projects/rsnapsim/"
-  - title: "dot2circ"
-    url: "/projects/dot2circ/"
-  - title: "eukaryotic riboswitches"
-    url: "/projects/riboeuk/"  
+ 
 
 - title: Recorded Talks
   url: "/talks"

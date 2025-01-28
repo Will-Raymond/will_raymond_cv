@@ -12,7 +12,7 @@ tags:
   - hobbies 
 
 header:
-    image_fullwidth: "celllong_pink3.gif"
+    image_fullwidth: "celllong_lightbrown5.gif"
 permalink: /hobbies/
 ---
 

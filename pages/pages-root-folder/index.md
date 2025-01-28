@@ -37,7 +37,7 @@ teaser: ""
 <div class="row t10" style="font-size: 20px; z-index: -1; background: rgba(10,40,60,.5); padding: 15px; box-shadow: 0 0 4px 4px rgba(10,40,60,.5);">
 <div class="row t40minus" style="font-size: 35px; padding: 7px;"> <h3> William Scott Raymond </h3> </div>
 <div class="row t10" style="font-size: 22px;  padding: 7px;"> 
-  Computational Biologist  &nbsp;&nbsp; • &nbsp;&nbsp;  mRNA modeler &nbsp;&nbsp; • &nbsp;&nbsp;  Painter &nbsp;&nbsp; • &nbsp;&nbsp;  (he/him)
+  Computational Biologist  &nbsp;&nbsp; • &nbsp;&nbsp;  mRNA modeler &nbsp;&nbsp; • &nbsp;&nbsp;  Painter &nbsp;&nbsp;
 </div></div>
 
 <div class="row t10" style="font-size: 20px; z-index: -1; background: rgba(0,0,22,.5); padding: 15px; box-shadow: 0 0 4px 4px rgba(0,0,22,.5);">
@@ -52,20 +52,20 @@ teaser: ""
       </h4> 
       <div>
       I am a computational biologist with a background in quantitative data analysis, mechanistic model building, and RNA biology.
-      I graduated with a PhD in Bioengineering at Colorado State University in spring 2024. While there I had the pleasure to work with Dr. Brian Munsky as my PI. My focus during my studies at the Munsky Lab were on coding TASEP based mRNA models to fit, reproduce, and classify Nascent Chain Tracking (NCT) experiments. 
-      I have a deep interest in the questions that plague the feild of RNA biology. I hope to provide insight to the scientific community about mRNA dynamics such as ribosomal collision dynamics, mRNA codon selection, mRNA decay, and tRNA abundances during my upcoming career.
+      I graduated with a PhD in Bioengineering at Colorado State University in spring 2024 from Dr. Brian Munsky's Lab. 
+      While there I focused on coding TASEP based mRNA models to fit, reproduce, and classify Nascent Chain Tracking (NCT) experiments with the ultimate goal of designing more informative experiments. Besides writing software for TASEP model building, I used machine learning to classify potential riboswitches within the human genome.
       </div>
     </div>
   </div>
   <div class="row t10" style="font-size: 20px; padding: 15px;">
       <div>
-          I am passionate about ethics in machine learning, as well ethics in scientific research as a whole. I haven't had the chance to do scientific outreach past college level, but I hope to change that in the future!
+            I have a strong interest in the open questions in the field of RNA biology and hope to provide insight to the scientific community about mRNA dynamics such as ribosomal collision dynamics, mRNA codon selection, mRNA decay, and tRNA abundances during my upcoming career.
+          Besides RNA, I am passionate about ethics in machine learning, as well ethics in scientific research as a whole. AI and machine learning have become dominant in public and scientific discourse, with questionable approaches, data sets, and abuses outpacing ethics focused research practices. To respond, scientists must adapt by increasing our focus on ethical practices through constant awareness and training.
       </div>
   </div>
   <div class="row t10" style="font-size: 20px; padding: 15px;">
       <div>
       When I am not working, I love to spend afternoons painting, swimming, or hiking with my partner. Feel free to reach out, I will be fastest to respond over email!
-
       </div>
   </div>
   <div class="row t10" style="font-size: 20px; opacity: 1; padding: 15px">
