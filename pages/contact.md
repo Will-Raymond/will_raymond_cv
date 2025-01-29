@@ -14,4 +14,6 @@ header              :
 <h1>
 Contact Info
 </h1>
+
+Email: <a href="mailto:williamscottraymond@gmail.com">williamscottraymond@gmail.com </a>
 </div>
