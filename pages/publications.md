@@ -1,5 +1,5 @@
 ---
-layout              : default
+layout              : page-fullwidth
 show_meta           : false
 title               : "Publications"
 subheadline         : ""
@@ -9,6 +9,7 @@ permalink           : "/publications/"
 
 noindex: true
 ---
+
 
 <div class="row" style="font-size: 20px; z-index: -1; background: rgba(0,0,22,.5); padding: 15px; box-shadow: 0 0 4px 4px rgba(0,0,22,.5);">
 <div><p>* - First Author,   § - Second Author,  º - Contributor</p></div>
