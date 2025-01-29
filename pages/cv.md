@@ -4,8 +4,7 @@ show_meta           : false
 title               : 
 subheadline         : 
 teaser              : 
-header:
-   image_fullwidth  : "celllong_lightpink5.gif"
+header: no
 permalink           : "/cv/"
 ---
 

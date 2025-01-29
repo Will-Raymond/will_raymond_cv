@@ -1,17 +1,17 @@
 ---
-layout              : page-fullwidth
+layout              : default
 show_meta           : false
 title               : "Publications"
 subheadline         : ""
 teaser              : "A list of my academic publications"
-header:
-    image_fullwidth: "celllong_lightblue5.gif"
+header              : no
 permalink           : "/publications/"
 
 noindex: true
 ---
 
 <div class="row" style="font-size: 20px; z-index: -1; background: rgba(0,0,22,.5); padding: 15px; box-shadow: 0 0 4px 4px rgba(0,0,22,.5);">
+<div><p>* - First Author,   § - Second Author,  º - Contributor</p></div>
 <div class="row">
   <div class="large-5 columns"> <h4> Title  </h4> </div>
   <div class="large-2 columns">  <h4> Journal  </h4> </div>
@@ -87,7 +87,6 @@ noindex: true
   <div class="large-1 columns"> <span class='internalicon' onclick="window.location='{{site.url}}{{site.baseurl}}/publications/physical_biology_2018'"> <img src="../images/next-arrow.svg" width="20" height="20"></span> </div>
 </div>
 
-<div><p>* - First Author,   § - Second Author,  º - Contributor</p></div>
 
 </div>
 

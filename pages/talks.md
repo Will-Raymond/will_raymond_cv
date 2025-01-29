@@ -4,8 +4,7 @@ show_meta           : false
 title               : "Assorted Random Talks"
 subheadline         : ""
 teaser              : "Some talks that have been recorded over the years"
-header:
-   image_fullwidth  : "celllong_lightgrey5.gif"
+header: no
 permalink           : "talks/"
 ---
 

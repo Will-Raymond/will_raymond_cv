@@ -6,7 +6,7 @@
 #
 layout: page
 header:
-  image_fullwidth: ../will_raymond_cv/images/celllong_lightpurple5.gif
+  no
 
 #
 # Use the call for action to show a button on the frontpage
@@ -34,9 +34,9 @@ teaser: ""
 <source src="../will_raymond_cv/images/bc4.mp4" type="video/mp4">
 </video> -->
 
-<div class="row t10" style="font-size: 20px; z-index: -1; background: rgba(10,40,60,.5); padding: 15px; box-shadow: 0 0 4px 4px rgba(10,40,60,.5);">
-<div class="row t40minus" style="font-size: 35px; padding: 7px;"> <h3> William Scott Raymond </h3> </div>
-<div class="row t10" style="font-size: 22px;  padding: 7px;"> 
+<div class="row t10" style="font-size: 20px; z-index: -1; background: rgba(10,40,60,.5); padding: 15px; box-shadow: 0 0 4px 4px rgba(10,40,60,.5); ">
+<div class="row t40minus" style="font-size: 35px; padding: 7px; text-align: center;"> <h3> William Scott Raymond </h3> </div>
+<div class="row t10" style="font-size: 22px;  padding: 7px; text-align: center;"> 
   Computational Biologist  &nbsp;&nbsp; • &nbsp;&nbsp;  mRNA modeler &nbsp;&nbsp; • &nbsp;&nbsp;  Painter &nbsp;&nbsp;
 </div></div>
 
