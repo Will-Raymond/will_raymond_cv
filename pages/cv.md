@@ -8,7 +8,16 @@ header: no
 permalink           : "/cv/"
 ---
 
+<div style="margin-left: auto; margin-right: 0; float: right;">  
+<a href="../CV_WSR_2025.pdf" download="CV_WSR_2025.pdf">Download CV</a>    •    
+<a href="../Resume_WSR_2025.pdf" download="filename">Download Resume</a>
+
+</div>
+
+<br> 
+
 <div class="row" style="font-size: 20px; z-index: -1; background: rgba(0,0,22,.5); padding-left: 0px; padding-top: 10px; padding-right: 0x; padding-bottom: 10px; box-shadow: 0 0 4px 4px rgba(0,0,22,.5);">    
+
 
 <div class="row" style="font-size: 20px; z-index: -1;  padding-left: 10px; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; margin: 0px; text-align: center;">  
    <h1>
@@ -18,6 +27,7 @@ permalink           : "/cv/"
       williamscottraymond@gmail.com  
    </div>
 </div>
+
 
 <div class="row" style="font-size: 20px; z-index: -1; background: rgba(0,0,22,.5); padding-left: 10px; padding-top: 10px; padding-right: 0px; padding-bottom: 5px; box-shadow: 0 0 4px 4px rgba(0,0,22,.5); margin: 0px;">    
 
