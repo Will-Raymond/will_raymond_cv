@@ -133,16 +133,16 @@ Work Experience
    <hr>
    <div class="large-6 columns"> 
    
-      <a href="../publications/riboswitch_23"> "Identification of Potential Riboswitch Elements in Homo Sapiens 5'UTR Sequences using Positive-Unlabeled Machine Learning" </a>
+      <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320282"> "Identification of Potential Riboswitch Elements in Homo Sapiens 5'UTR Sequences using Positive-Unlabeled Machine Learning" </a>
       <br>
       1<sup>st</sup> Author
          
    </div>
    <div class="large-4 columns" style="text-align: right"> 
-       UNDER REVIEW
+       PLOS One
    </div>
    <div class="large-2 columns" style="text-align: right"> 
-      January 2025
+      April 2025
    </div>
 
    <hr>
