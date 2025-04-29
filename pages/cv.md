@@ -10,7 +10,7 @@ permalink           : "/cv/"
 
 <div style="margin-left: auto; margin-right: 0; float: right;">  
 <a href="../CV_WSR_2025.pdf" download="CV_WSR_2025.pdf">Download CV</a>    •    
-<a href="../Resume_WSR_2025.pdf" download="filename">Download Resume</a>
+<a href="../Resume_WSR_2025.pdf" download="Resume_WSR_2025.pdf">Download Resume</a>
 
 </div>
 
